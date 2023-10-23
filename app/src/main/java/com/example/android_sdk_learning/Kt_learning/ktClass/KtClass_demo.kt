@@ -1,4 +1,4 @@
-package com.example.android_sdk_learning.Kt_learning
+package com.example.android_sdk_learning.Kt_learning.ktClass
 
 class KtClass_demo {
     var field1 = 1
